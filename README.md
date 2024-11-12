@@ -58,5 +58,5 @@ Veriler, **NLTK** kütüphanesi yardımıyla tokenize edildi. Bu işlem, modelle
 
 ---
 
-Bu proje, Python kütüphanelerini kullanarak metin verisi üzerinde duygu analizi ve önişleme tekniklerini deneyimlemek isteyenler için uygun bir örnektir.
+
 
