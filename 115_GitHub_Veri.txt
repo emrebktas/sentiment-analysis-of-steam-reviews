@@ -1,0 +1,2 @@
+drive: https://drive.google.com/drive/u/0/folders/14RmtaxEl1U2__j9AjEh3B93n0rjlCDN5,
+github: https://github.com/emrebktas/steam_data_preprocessing
